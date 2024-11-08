@@ -1,0 +1,14 @@
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.AssemblyInfoInputs.cache
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.AssemblyInfo.cs
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.csproj.CoreCompileInputs.cache
+D:\Haseeb\CC\Lab-Mid\q2\bin\Debug\net8.0-windows\q2.exe
+D:\Haseeb\CC\Lab-Mid\q2\bin\Debug\net8.0-windows\q2.deps.json
+D:\Haseeb\CC\Lab-Mid\q2\bin\Debug\net8.0-windows\q2.runtimeconfig.json
+D:\Haseeb\CC\Lab-Mid\q2\bin\Debug\net8.0-windows\q2.dll
+D:\Haseeb\CC\Lab-Mid\q2\bin\Debug\net8.0-windows\q2.pdb
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.dll
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\refint\q2.dll
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.pdb
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\q2.genruntimeconfig.cache
+D:\Haseeb\CC\Lab-Mid\q2\obj\Debug\net8.0-windows\ref\q2.dll
