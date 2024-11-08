@@ -1,0 +1,43 @@
+
+
+Lab Task 1:
+Design a regular expression for floating-point numbers having length not greater than 6
+
+
+Regular Expression:
+^-?(\d{1,5}(\.\d{0,4})?|\d{0,4}\.\d{1,5})$
+Explanation:
+
+^-?: The number may optionally start with a minus sign (-).
+(\d{1,5}(\.\d{0,4})?|\d{0,4}\.\d{1,5}): Matches two possibilities:
+A number with up to 5 digits before the decimal and an optional decimal with up to 4 digits after.
+A number with up to 4 digits before the decimal and exactly 1-5 digits after the decimal.
+$: End of the string. 
+This ensures the total length (including the decimal point and sign) does not exceed 6 characters.
+
+Lab Task 2:
+Design a single regular expression for the following numbers: 8e4, 5e-2, 6e9 (using Datagrid view)
+
+
+
+Regular Expression:
+^[+-]?\d+e[+-]?\d+$
+Explanation:
+
+^[+-]?: The number may optionally start with a plus (+) or minus (-) sign.
+\d+: One or more digits before the e.
+e: The scientific notation symbol.
+[+-]?: The exponent part can optionally have a plus or minus sign.
+\d+: One or more digits in the exponent part.
+$: End of the string.
+
+Lab Task 3:
+Design a regular expression for finding all the words starting with ‘t’ and ‘m’ in the following 
+document(Using Datagrid view).
+Regular Expression:
+\b[tTmM]\w*\b
+Explanation:
+\b: Word boundary to ensure the match occurs at the start of a word.
+[tTmM]: Matches any word that starts with 't', 'T', 'm', or 'M'. This makes it case-insensitive for the letters 't' and 'm'.
+\w*: Matches any number of alphanumeric characters after the first letter.
+\b: Another word boundary to ensure the entire word is captured.
